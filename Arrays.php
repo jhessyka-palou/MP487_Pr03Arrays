@@ -5,6 +5,7 @@
 <?php
 //EJERCICIO 1
 
+
 // crear array con los datos
 $persona = array("nombre"=> "Sara","apellido"=> "Martinez", "edad"=> 23, "ciudad"=> "Barcelona");
 $contador= 1;
